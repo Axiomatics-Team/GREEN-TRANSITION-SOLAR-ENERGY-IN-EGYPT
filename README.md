@@ -126,9 +126,6 @@ Each project included values such as:
 This project was created by a passionate team of six DEPI data analysis students, with a shared mission:  
 **To prove that sustainability and profitability can go hand-in-hand.**
 
-Team Lead: Axiomatics  
-Team Members: [Insert Names Here]
-
 ---
 
 ## 💡 Final Note
