@@ -2,7 +2,11 @@
 
 ## 🌍 Project Description
 
-Egypt is at a turning point. While the sun shines brightly across the country almost every day of the year, many factories, gas stations, and resorts are still heavily dependent on the national electricity grid — often powered by fossil fuels that harm the environment and drain budgets. That’s where this project comes in.
+Egypt stands at the cusp of a green transformation. Despite abundant solar resources, many industrial and service sector establishments remain dependent on conventional energy sources. This project explores how the transition to **solar energy** can drive sustainability and profitability in Egypt’s **industrial operations and service-based facilities**.
+
+The primary objective of our study is to analyze the economic and environmental outcomes of adopting solar technology across a selection of real-life commercial and industrial sites — including factories, gas stations, and a large resort — over a 25-year period.
+
+We utilized actual energy performance data from 13 solar installations to:
 
 Our goal was to explore the real, measurable impact of **green technology** — specifically, **solar energy** — in different sectors across Egypt. We asked the big questions:  
 - Does switching to solar really save money?  
