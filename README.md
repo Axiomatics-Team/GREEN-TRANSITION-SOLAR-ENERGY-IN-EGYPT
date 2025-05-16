@@ -164,7 +164,11 @@ We leveraged statistical time-series models to predict Egypt’s inflation traje
   *(Example: Cotton farms reduce CO₂ by 30,000+ kg/year while cutting costs by 63.3%)*
 
 ---
+## 📄 For a deeper understanding of our project — including full analysis, insights, visuals, and suggestions — please check out our official report:
 
+[![Open Report](https://img.shields.io/badge/Open-Canva%20Report-blue?logo=canva)](https://www.canva.com/design/DAGnk49esBI/Y8pJ0E94a7jDUNrd5J05yw/view)
+
+---
 ## 👥 Our Team
 
 This project was created by a passionate team of six DEPI data analysis students, with a shared mission:  
