@@ -164,6 +164,13 @@ We leveraged statistical time-series models to predict Egypt’s inflation traje
   *(Example: Cotton farms reduce CO₂ by 30,000+ kg/year while cutting costs by 63.3%)*
 
 ---
+## 🎥 Project Presentation
+
+Want a quick walkthrough of our project? Watch our official presentation video below:
+
+[![Watch Presentation](https://img.shields.io/badge/Watch-Presentation-blue?logo=google-drive)](https://drive.google.com/file/d/1lhh2C11sEDR3nn4Ay15DV-wEqNeWy4t9/view?usp=drivesdk)
+
+---
 ## 📄 For a deeper understanding of our project — including full analysis, insights, visuals, and suggestions — please check out our official report:
 
 [![Open Report](https://img.shields.io/badge/Open-Canva%20Report-blue?logo=canva)](https://www.canva.com/design/DAGnk49esBI/Y8pJ0E94a7jDUNrd5J05yw/view)
