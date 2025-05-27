@@ -165,7 +165,7 @@ We leveraged statistical time-series models to predict Egypt’s inflation traje
 ---
 ## 🚀 View the Live Power BI Dashboard
 
-[![View Report](https://app.powerbi.com/groups/me/reports/9a296a7c-41ac-441c-ba1e-16faeab163d5/e7d9c3c4e71d2454aa2b?experience=power-bi)
+[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/reports/9a296a7c-41ac-441c-ba1e-16faeab163d5/e7d9c3c4e71d2454aa2b?experience=power-bi)
 
 
 Click the button above to explore the interactive dashboard online
