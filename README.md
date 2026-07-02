@@ -56,30 +56,6 @@ Each project included values such as:
 - `ROI_Percent`: Return on investment
 
 ---
-
-## 🌱 Agricultural Sector Insights
-
-Our analysis of solar adoption in Egypt's agricultural sector reveals:
-
-### Solar vs. Diesel Cost Comparison
-- Traditional diesel irrigation costs reach **EGP 350,000/year** per farm
-- Solar systems reduce energy costs by:
-  - **48.5%** for Corn fields (Com_1)
-  - **20.7%** for Pomegranate farms (PMG_1)
-  - **63.3%** for Cotton crops (highest savings)
-
-### Environmental Impact
-- **30,000+ kg CO₂ reduction/year** achieved by Corn fields
-- Significant emission cuts across all crop types
-
-### Key Benefits for Agriculture
-1. **Stable Costs**: Solar eliminates volatile diesel prices
-2. **Higher Profitability**: Cotton farms show highest returns
-3. **Sustainable Irrigation**: Reduces carbon footprint of water-intensive crops
-
-**Recommendation**: Prioritize solar adoption for water-intensive crops (Cotton, Corn) to maximize both economic and environmental benefits.
-
-
 ## 🛠️ Tools & Technologies
 
 - **Python** – for data cleaning, EDA, and correlation analysis  
@@ -152,6 +128,34 @@ We leveraged statistical time-series models to predict Egypt’s inflation traje
   - Lower carbon footprint
 
 ✅ **Insight**: Maximize internal solar use, especially in isolated or high-consumption areas.
+
+---
+
+## 🌱 Agricultural Sector Insights
+
+Our analysis of solar adoption in Egypt's agricultural sector reveals:
+### AgrAgricultural_smart_farming_dashboard
+
+![Agricultural_smart_farming_dashboard](Project_Dashboards/Agricultural_smart_farming_dashboard.png)
+
+### Solar vs. Diesel Cost Comparison
+- Traditional diesel irrigation costs reach **EGP 350,000/year** per farm
+- Solar systems reduce energy costs by:
+  - **48.5%** for Corn fields (Com_1)
+  - **20.7%** for Pomegranate farms (PMG_1)
+  - **63.3%** for Cotton crops (highest savings)
+
+### Environmental Impact
+- **30,000+ kg CO₂ reduction/year** achieved by Corn fields
+- Significant emission cuts across all crop types
+
+### Key Benefits for Agriculture
+1. **Stable Costs**: Solar eliminates volatile diesel prices
+2. **Higher Profitability**: Cotton farms show highest returns
+3. **Sustainable Irrigation**: Reduces carbon footprint of water-intensive crops
+
+**Recommendation**: Prioritize solar adoption for water-intensive crops (Cotton, Corn) to maximize both economic and environmental benefits.
+
 
 ---
 
