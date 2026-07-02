@@ -163,12 +163,26 @@ We leveraged statistical time-series models to predict Egypt’s inflation traje
 - **Agriculture**: Highest environmental impact per EGP invested  
   *(Example: Cotton farms reduce CO₂ by 30,000+ kg/year while cutting costs by 63.3%)*
 ---
-## 🚀 View the Live Power BI Dashboard
+## 🚀 Power BI Dashboards
 
-[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/reports/9a296a7c-41ac-441c-ba1e-16faeab163d5/e7d9c3c4e71d2454aa2b?experience=power-bi)
+### Home Page
+
+![Home Page](Project_Dashboards/home_page.png)
+
+### ⛽ Gas station Dashboard
+
+![Gas station Analysis Dashboard](Project_Dashboards/gas_dash.png)
+
+### 🏭 industrial factories Dashboards
+
+![industrial factories Dashboard](Project_Dashboards/industries_dashboard.png)
+
+![industrial factories Dashboard](Project_Dashboards/industries_dashboard_2.png)
+
+### Comparision between sectors 🏭 Industries vs. ⛽ Gas Stations
+![Comparision between sectors 🏭 Industries vs. ⛽ Gas Stations](Project_Dashboards/comparison_between_sectors_dashboard.png)
 
 
-Click the button above to explore the interactive dashboard online
 ---
 ## 🎥 Project Presentation
 
